@@ -1,0 +1,13 @@
+# Internal documents never leave this machine
+\[Internal\]*
+
+# macOS
+.DS_Store
+
+# Office lock files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
